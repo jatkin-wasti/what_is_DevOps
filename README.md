@@ -18,9 +18,16 @@
 - An example of such a server is Jenkins.
 
 ## Cloud Computing
+- Cloud computing makes use of hardware that is not physically in the same location as the user.
+- In essence, a client will rent a number of machines for use as additional storage or to make use of additional computational power.
+- This is miles cheaper than the upfront cost of buying the necessary hardware yourself, and can be scaled up or down depending on a user's needs.
 
 ## What does 'On prem', 'Hybrid', and 'Public cloud' mean?
-
+- On prem stands for 'On premises', meaning that the computers on the premises are used to store the data or applications.
+- This can lead to more secure, but also makes it more expensive in licensing and maintainence costs.
+- This method may be favoured in highly regulated fields where there are extra privacy concerns that make the additional costs seem worth it.
+- Hybrid refers to 
+- Public cloud
 ## What is SAAS?
 
 ### When should we use SAAS and why?
