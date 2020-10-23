@@ -35,14 +35,19 @@ data centres.
 - An example of such a service is AWS.
 
 ## What is SAAS?
-
+- Software As A Service is a software licensing model that allows users to remotely access a centrally hosted piece of software being licensed on a subscription basis.
 ### When should we use SAAS and why?
-
+- Can gain access to sophisticated applications without each user having to purchase a license.
+- Users do not have to download or install the software, being able to run it all through the web.
 ## What is PAAS?
-
+- Platform As A Service is a type of cloud computing which provides a development and deployment environment in the cloud.
 ### When should we use PAAS and why?
-
+- This enables users to develop, run, and manage applications without having to deal with the complexity of building and maintaining the appropriate infrastructure.
 ## What is IAAS?
-
+- Infrastructure As A Service is an infrastructure that is provisioned and managed over the Internet.
 ### When should we use IAAS and why?
-
+- It quickly scales up and down with demand, only making you pay for what you use.
+- Avoids expensive and complex nature of buying and managing your own physical servers and other data centre infrastructure.
+```
+I cannot add images with the current terminal setup, my apologies
+````
