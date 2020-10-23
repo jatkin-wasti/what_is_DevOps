@@ -4,6 +4,7 @@
 - Friction can sometimes occur between the two teams due to their different working environments and perspectives.
 - DevOps is all about these teams being able to work together effectively and sharing responsibility. As well as automating the deployment pipeline and deploying infrastructure as code.
 - This can be achieved by CI/CD, which stands for Continuous Integration, Continuous Delivery, and Continuous Deployment. These terms will be defined later, in the 'Tools of DevOps' section.
+- Using DevOps can have a tremendous impact on efficiency
 
 ## Tools of DevOps
 ### Source Control Systems
@@ -26,8 +27,13 @@
 - On prem stands for 'On premises', meaning that the computers on the premises are used to store the data or applications.
 - This can lead to more secure, but also makes it more expensive in licensing and maintainence costs.
 - This method may be favoured in highly regulated fields where there are extra privacy concerns that make the additional costs seem worth it.
-- Hybrid refers to 
-- Public cloud
+- Hybrid refers to the use of both private and public cloud infrastructures.
+- This may include dynamic resource allocation and migration among clouds.
+- It can also be used to provide fallback capacity, snapshots of virtual machines can be stored in the cloud and run remotely in the case of a catastrophic failure in one of the companies 
+data centres.
+- Public cloud refers to computing services offered by third party providers over public internet.
+- An example of such a service is AWS.
+
 ## What is SAAS?
 
 ### When should we use SAAS and why?
