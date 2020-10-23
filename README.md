@@ -7,10 +7,15 @@
 
 ## Tools of DevOps
 ### Source Control Systems
-- Source control systems are used to track changes to code or documentation during the development of software.
+- Source control systems are used to track changes to code, tests, and documentation during the development of software.
 - This system makes is easy to check previous versions of a piece of software. This could be used to roll back to a more stable version or discovering the source of an issue that a client
  is having on an older version.
+- Infrastructure as code should be stored in the same source control system so that version control is being used 
 - A widely used source control system is GitHub.
+### CI/CD server
+- The CI/CD server connects to git and automatically runs tests on newly changed software.
+- This means that code is constantly being tested and makes it simple to identify which change caused which tests to fail. This makes rectifying these issues a much smoother process,
+- An example of such a server is Jenkins.
 
 ## Cloud Computing
 
